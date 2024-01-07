@@ -1,0 +1,9 @@
+#evaluation-checkbox-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.evaluation-checkbox-row {
+    display: flex;
+    flex-direction: row;
+}
